@@ -19,6 +19,7 @@ Assume that as a data analytics provider, you have been approached by this mobil
 # Business Goal
 
 Part 1: Deriving the business insights that are useful for product development and marketing.
+
 Part 2: Creating a sentiment classification engine.
 
 # Steps Followed
