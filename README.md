@@ -22,7 +22,7 @@ Part 1: Deriving the business insights that are useful for product development a
 Part 2: Creating a sentiment classification engine.
 
 # Steps Followed
-Step 1: Data pre-processing
-Step 2: EDA
-Step 3: Text analytics
-Step 4: Building a sentiment classification engine
+1. Data pre-processing
+2. EDA
+3. Text analytics
+4. Building a sentiment classification engine
